@@ -9,6 +9,6 @@ The languages and tools you used to create this website are HTML,CSS and Javascr
 ## Live link
 https://patiente.github.io/Portfolio/
 ## Support and contact details
-Contact me on my email patiente220@gmail.com
+Contact me on email patiente220@gmail.com
 ### License
 Copyright (c) 2020 **Patiente Irakiza**
